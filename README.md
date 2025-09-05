@@ -1,6 +1,6 @@
 # College Predictor
 
-A simple tool to predict college admissions based on historical data and machine learning.
+A simple CLI tool to predict college admissions based on historical data and machine learning.
 
 ## Motive
 Help students estimate their chances of admission to various colleges using previous years' cut-off data and predictive modeling.
