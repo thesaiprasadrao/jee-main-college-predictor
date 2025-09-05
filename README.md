@@ -14,8 +14,8 @@ Help students estimate their chances of admission to various colleges using prev
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repo-url>
-   cd College Predictor
+   git clone https://github.com/thesaiprasadrao/jee-main-college-predictor.git
+   cd jee-main-college-predictor
    ```
 2. Install dependencies:
    ```bash
