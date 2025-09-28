@@ -25,6 +25,8 @@ Help students estimate their chances of admission to various colleges using prev
    ```bash
    python predictor_interface.py
    ```
+4. Model File
+   https://drive.google.com/file/d/1JAXw64b99sqY9NuhfKT48JGN-5k241Ut/view?usp=sharing
 
 ## Project Structure
 ```
