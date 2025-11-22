@@ -35,7 +35,7 @@ Help students estimate their chances of admission to various colleges using prev
 ├── ml_model.py               # Machine learning models and prediction logic
 ├── data_loader.py            # Data loading and preprocessing utilities
 ├── requirements.txt          # Python dependencies
-├── trained_college_predictor.pkl  # Pre-trained ML model (generated)
+├── trained_college_predictor.pkl  # Pre-trained ML model
 └── data/                     # Historical admission data (2020-2024)
     ├── 2020/                 # Round-wise admission data for 2020
     ├── 2021/                 # Round-wise admission data for 2021
